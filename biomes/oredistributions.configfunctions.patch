@@ -1,0 +1,72 @@
+[
+   {
+    "op": "replace",
+    "path": "/depth2/5/1/4/1",
+    "value": 0.1
+  },
+  {
+    "op": "replace",
+    "path": "/depth3/3/1/4/1",
+    "value": 0.2
+  },
+  {
+    "op": "replace",
+    "path": "/depth3/4/1/4/1",
+    "value": 0.2
+  },
+  {
+    "op": "replace",
+    "path": "/depth3/5/1/4/1",
+    "value": 0.3
+  },
+  {
+    "op": "replace",
+    "path": "/core/1/1/4/1",
+    "value": 0.25
+  },
+  {
+    "op": "replace",
+    "path": "/core/2/1/4/1",
+    "value": 0.275
+  },
+  {
+    "op": "replace",
+    "path": "/core/3/1/4/1",
+    "value": 0.3
+  },
+  {
+    "op": "replace",
+    "path": "/core/4/1/4/1",
+    "value": 0.4
+  },
+  {
+    "op": "replace",
+    "path": "/core/5/1/4/1",
+    "value": 0.5
+  },
+  {
+    "op": "replace",
+    "path": "/core/1/1/5/1",
+    "value": 1.08
+  },
+  {
+    "op": "replace",
+    "path": "/core/2/1/5/1",
+    "value": 1.15
+  },
+  {
+    "op": "replace",
+    "path": "/core/3/1/5/1",
+    "value": 1.25
+  },
+  {
+    "op": "replace",
+    "path": "/core/4/1/5/1",
+    "value": 1.5
+  },
+  {
+    "op": "replace",
+    "path": "/core/5/1/5/1",
+    "value": 2.0
+  }
+]

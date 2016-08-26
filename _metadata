@@ -1,0 +1,10 @@
+{
+  "author" : "Reika",
+  "description" : "Makes high-tier planets spawn a bit more of the valuable nontiered ores (diamond, core fragments), at increasing rate at increasing depth. Makes deep diving on magma worlds actually worth it.",
+  "friendlyName" : "Scaled Ores",
+  "includes" : [],
+  "link" : "steam://url/CommunityFilePage/751418471",
+  "name" : "ScaledOres",
+  "steamContentId" : "751418471",
+  "version" : "0.0.1"
+}
